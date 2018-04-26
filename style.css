@@ -1,0 +1,17 @@
+.container div{
+	padding: 6px;
+}
+.container {
+	display: none;
+	align-content: center;
+	margin-top: 8px;
+}
+.btn{
+	color: #000;
+	background-color: #0000FF;
+	padding: 3px 1.5em;
+	cursor: pointer;
+}
+.clickable{
+	cursor: pointer;
+}
